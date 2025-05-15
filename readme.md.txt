@@ -1,3 +1,3 @@
 #fossils directory
 
-- blah blah blah
+- blah blah blah. introduced git and github
